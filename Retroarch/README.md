@@ -1,3 +1,7 @@
+PENDIENTE ASIGNAR A CADA UNO UN NOMBRE POR USB Y UN CODIGO ÚNICO, TAL COMO SE INDICA EN LAS NOTAS DE AQUI:
+https://github.com/regiregi22/DaemonBite-Arcade-Encoder
+
+
 Those profiles are intended to setup each DaemonBite controller using an Arduino Pro Micro on Retroarch, maintaining a correlation between the original pad input and the emulation of this pad on Retroarch.
 
 DaemonBite controllers are detected on Windows "Game Controllers" configuration with the name "SparkFun Pro Micro". They all have the same name, even if those are differente controllers, like an SNES or a Master System. So, it is only possible to have one profile installed at the same time. It has to be copied on  "\RetroArch1.8.8\autoconfig\dinput" folder.
