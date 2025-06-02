@@ -1,5 +1,5 @@
 ## Configuración para mínima latencia con Retroarch:  
-Hay algunos cores complejos que dan problemas con el "Runahead" para reducir latencia (PSX, MAME y alguno más), si el video y el audio van a tirones, desactivar el Runahead cuando se use ese core.  
+Hay algún core moderno que da problemas con el "Runahead" para reducir latencia (PSX, MAME y alguno más), si el video y el audio van a tirones, desactivar el Runahead cuando se use ese core.  
 
 Video / Output / Video: Vulkan  
 Video / Output / Set Display-Reported Refresh Rate: Set  
@@ -25,7 +25,7 @@ Achievements / Visibility / Startup Summary: All Identified Games
 Achievements / Unlock Sound: ON  
 
 ## Configuración de core FinalBurnNEO:
-Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que darle a Esc (F1), Core Options, y poner "Allow patched romsets: OFF".  
+Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador. 
 
 ## Actualizar:
 -Cada varias semanas, actualizar los cores para que funcione correctamente Retroachievements:  
@@ -34,7 +34,6 @@ Online Updater / Update Core Info Files
 Online Updater / Update Assets  
 Online Updater / Update Controller Profiles  
 Online Updater / Update Databases  
-Online Updater / Update Slang Shaders  
 
 -Al menos una vez al año, actualizar el propio Retroarch:  
 Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.  
