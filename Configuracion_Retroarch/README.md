@@ -17,9 +17,8 @@ Audio / Output / Audio driver: XAUDIO (Usar WASAPI si XAUDIO da problemas de son
 Audio / Output / Resampler Quality: Highest  
 
 ## Configuración para Retroachievements:  
-User / Username: USUARIO  
-User / Privacy / Discord presence: ON  
 User / Accounts / Retroachivements: USUARIO Y CONTRASEÑA  
+User / Privacy / Discord presence: ON  
 Achievements / ON  
 Achievements / Visibility / Startup Summary: All Identified Games  
 Achievements / Unlock Sound: ON  
