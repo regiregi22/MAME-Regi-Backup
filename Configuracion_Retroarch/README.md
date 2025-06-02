@@ -24,12 +24,12 @@ User / Privacy / Discord presence: ON
 Achievements / ON  
 Achievements / Visibility / Startup Summary: All Identified Games  
 Achievements / Unlock Sound: ON  
-
-
+<br />
+<br />
 ## Configuración de core FinalBurnNEO:
 Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador. 
-
-
+<br />
+<br />
 ## Actualizar:
 -Cada varias semanas, actualizar los cores para que funcione correctamente Retroachievements:  
 Online Updater / Update Installed cores  
@@ -40,8 +40,8 @@ Online Updater / Update Databases
 
 -Al menos una vez al año, actualizar el propio Retroarch:  
 Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.  
-
-
+<br />
+<br />
 ----------------------------------  
 
 ----------------------------------  
