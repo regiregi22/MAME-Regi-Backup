@@ -16,8 +16,8 @@ Latency / Runahead frames: 1
 Latency / Use second instance Run-Ahead: OFF  
 Audio / Output / Audio driver: XAUDIO (Usar WASAPI si XAUDIO da problemas de sonido)  
 Audio / Output / Resampler Quality: Highest  
-
-
+  
+  
 ## Configuración para Retroachievements:  
 User / Accounts / Retroachivements: USUARIO Y CONTRASEÑA  
 User / Privacy / Discord presence: ON  
