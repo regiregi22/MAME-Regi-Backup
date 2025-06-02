@@ -24,10 +24,8 @@ Achievements / ON
 Achievements / Visibility / Startup Summary: All Identified Games  
 Achievements / Unlock Sound: ON  
 <br />
-<br />
 ## Configuración de core FinalBurnNEO:
 Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador.  
-<br />
 <br />
 ## Actualizar:
 -Cada varias semanas, actualizar los cores para que funcione correctamente Retroachievements:  
@@ -40,12 +38,11 @@ Online Updater / Update Databases
 -Al menos una vez al año, actualizar el propio Retroarch:  
 Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.  
 <br />
-<br />
 ----------------------------------  
 
 ----------------------------------  
 
-## BONUS - CONFIGURACIÓN COMPLETA:
+## BONUS - CONFIGURACIÓN COMPLETA MIA:
 Esta es la copia de seguridad de mi configuración completa de Retroarch, está todo lo anterior, y muchas más opciones que tengo puestas a mi gusto, por si alguno tiene curiosidad. Está configurado para usar los shaders CRT de MegaBezel.  
 
 User interfacePause content when not active: OFF  
@@ -61,7 +58,7 @@ Show Hidden Files and Directories: ON
 Filter Unknown Extensions: OFF  
 Remember Last Used Start Directory: ON  
 
-UserUsername: Abogado  
+UserUsername: regiregi22  
 PrivacyDiscord presence: ON  
 
 AccountsRetroachivementsUser and Pass  
