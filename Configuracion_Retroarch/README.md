@@ -1,16 +1,12 @@
-
-------------------------
-CONFIGURACIÓN RETROARCH  
+# CONFIGURACIÓN RETROARCH  
 
 
-# PARA MINIMA LATENCIA  
-------------------------
 ## PARA MINIMA LATENCIA  
-------------------------
+
 ### OPCIONES RECOMENDADAS  
-------------------------
+
 #### OPCIONES RECOMENDADASsssss  
-------------------------
+
 
 	User interface	Pause content when not active: OFF								
 		Appearance	Primary Thumbnail OFF							
