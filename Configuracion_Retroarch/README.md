@@ -43,16 +43,16 @@ Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, baj
 ----------------------------------  
 
 ## BONUS - CONFIGURACIÓN COMPLETA:
-Esta es la copia de seguridad de mi configuración completa de Retroarch, está todo lo anterior, y muchas más opciones que tengo puestas a mi gusto, por si alguno tiene curiosidad. Está configurado para usar los shaders CRT de MegaBezel.
+Esta es la copia de seguridad de mi configuración completa de Retroarch, está todo lo anterior, y muchas más opciones que tengo puestas a mi gusto, por si alguno tiene curiosidad. Está configurado para usar los shaders CRT de MegaBezel.  
 
-User interface	Pause content when not active: OFF									
-	Appearance	Primary Thumbnail OFF								
-		Opacity 500								
-	Menu Item Visibility: Set each one									
-		Quick Menu: Set each one								
-	Notification Visibility:	Display Netplay Ping: ON								
-		Extra Netplay Notifications: ON								
-	File Browser:									
+User interface	Pause content when not active: OFF	  								
+	Appearance	Primary Thumbnail OFF			  					
+		Opacity 500						  		
+	Menu Item Visibility: Set each one				  					
+		Quick Menu: Set each one				  				
+	Notification Visibility:	Display Netplay Ping: ON	  							
+		Extra Netplay Notifications: ON				  				
+	File Browser:							  		
 		Start Directory: Start directory: H:\EMU\								
 		Show Hidden Files and Directories: ON								
 		Filter Unknown Extensions: OFF								
