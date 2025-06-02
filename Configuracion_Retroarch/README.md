@@ -17,7 +17,6 @@ Latency / Use second instance Run-Ahead: OFF
 Audio / Output / Audio driver: XAUDIO (Usar WASAPI si XAUDIO da problemas de sonido)  
 Audio / Output / Resampler Quality: Highest  
 <br />
-<br />
 ## Configuración para Retroachievements:  
 User / Accounts / Retroachivements: USUARIO Y CONTRASEÑA  
 User / Privacy / Discord presence: ON  
@@ -27,7 +26,7 @@ Achievements / Unlock Sound: ON
 <br />
 <br />
 ## Configuración de core FinalBurnNEO:
-Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador. 
+Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador.  
 <br />
 <br />
 ## Actualizar:
