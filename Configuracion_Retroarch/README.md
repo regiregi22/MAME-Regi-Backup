@@ -45,7 +45,7 @@ Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, baj
 ## BONUS - CONFIGURACIÓN COMPLETA:
 Esta es la copia de seguridad de mi configuración completa de Retroarch, está todo lo anterior, y muchas más opciones que tengo puestas a mi gusto, por si alguno tiene curiosidad. Está configurado para usar los shaders CRT de MegaBezel.  
 
-User interface	Pause content when not active: OFF	  								
+User interface	Pause content when not active: OFF  	  								
 	Appearance	Primary Thumbnail OFF			  					
 		Opacity 500						  		
 	Menu Item Visibility: Set each one				  					
