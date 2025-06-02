@@ -27,7 +27,7 @@ Achievements / Unlock Sound: ON
 ## Configuración de core FinalBurnNEO:
 Para que este core coja los logros en modo hardcore, la primera vez que se carga un juego hay que salir al menú (F1), Core Options, y poner "Allow patched romsets: OFF". Reiniciar emulador.  
 <br />
-## Actualizar:
+## Actualizar Retroarch:
 -Cada varias semanas, actualizar los cores para que funcione correctamente Retroachievements:  
 Online Updater / Update Installed cores  
 Online Updater / Update Core Info Files  
