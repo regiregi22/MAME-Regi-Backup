@@ -1,4 +1,4 @@
-## CONFIGURACIÓN MINIMA LATENCIA RETROARCH  
+## Configuración para mínima latencia con Retroarch  
 Hay algunos cores complejos que dan problemas con el "Runahead" para reducir latencia (PSX, MAME y alguno más), si el video y el audio van a tirones, desactivar el Runahead cuando se use ese core.  
 
 ------------------------------
@@ -23,19 +23,20 @@ Audio / Output / Resampler Quality: Highest
 ## BONUS - Opciones para Retroachievements:  
 User / Username: USUARIO  
 User / Privacy / Discord presence: ON  
-User / Accounts / Retroachivements: USUARIO Y CONTRASEÑA
+User / Accounts / Retroachivements: USUARIO Y CONTRASEÑA  
 
-Achievements / ON
-Achievements / Visibility / Startup Summary: All Identified Games
-Achievements / Unlock Sound: ON
+Achievements / ON  
+Achievements / Visibility / Startup Summary: All Identified Games  
+Achievements / Unlock Sound: ON  
 
-Cada varias semanas, actualizar los cores para que funcione correctamente Retroarch:
+
+-Cada varias semanas, actualizar los cores para que funcione correctamente Retroachievements:  
 Online Updater	Core Downloader, download as needed								
 		Update everything (Core info, Assets, etc...)								
 										
 -CONFIG CORES:	FinalBurn Neo									
 		Allow patched romsets: OFF	
 
-  Al menos una vez al año, actualizar el propio Retroarch:
--Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.
+-Al menos una vez al año, actualizar el propio Retroarch:  
+Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.  
 																
