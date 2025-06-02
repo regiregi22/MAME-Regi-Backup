@@ -39,7 +39,6 @@ Online Updater / Update Databases
 Desde su web (https://www.retroarch.com), si lo tenemos mediante instalador, bajarse la nueva version e instalarla. Si lo tenemos descomprimido en una carpeta, descargarnos la nueva versión y descomprimirla sobreescribiendo la carpeta donde lo tenemos.  
 
 <br />
-----------------------------------  
 
 ----------------------------------  
 
