@@ -1,3 +1,8 @@
+--------------------------
+OBSOLETO, PENDIENTE ACTUALIZAR
+--------------------------
+
+
 PENDIENTE ASIGNAR A CADA UNO UN NOMBRE POR USB Y UN CODIGO ÚNICO, TAL COMO SE INDICA EN LAS NOTAS DE AQUI:
 https://github.com/regiregi22/DaemonBite-Arcade-Encoder
 
