@@ -1,0 +1,9 @@
+1-----------------------------------------------------------------------------------------------
+https://github.com/MHeironimus/ArduinoJoystickLibrary/tree/version-1.0
+
+prueba0: "JoystickButton" de serie puro, sin tocar nada.
+
+prueba1: "JoystickButton" de serie puro, quitando el "delay(50);"
+
+Veo que "prueba1" es peor que DaemonBite de Stock, asique no sigo por ahi. Pasamos a DaemonRipped.
+Para el DaemonRegi Slider, quitar los delays que son muy malos.
