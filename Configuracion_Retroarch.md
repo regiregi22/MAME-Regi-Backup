@@ -1,5 +1,5 @@
 ## Configuración para mínima latencia con Retroarch:  
-Hay algún core moderno que da problemas con el "Runahead" para reducir latencia (PSX, MAME y alguno más), si el video y el audio van a tirones, desactivar el Runahead cuando se use ese core.  
+Hay algún core moderno que da problemas con el "Runahead" para reducir latencia (PSX, MAME y alguno más que usan "hardware renderers" o  "dynamic recompilers"), si el video y el audio van a tirones, desactivar el Runahead cuando se use ese core.  
 Si tu monitor tiene G-Sync/Freesync, recuerda habilitarlo tambien en el panel de control de Nvidia, y en el propio menú del monitor.
 
 Video / Output / Video: Vulkan  
